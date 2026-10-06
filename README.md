@@ -92,7 +92,7 @@ Automated checks validate:
 1. Clone the repository and install dependencies:
 
    ```bash
-   git clone https://github.com/<your-username>/olist-data-engineering-pipeline.git
+   git clone https://github.com/balatheoni/olist-data-engineering-pipeline.git
    cd olist-data-engineering-pipeline
    python -m venv .venv
    .venv\Scripts\Activate.ps1      # macOS/Linux: source .venv/bin/activate
